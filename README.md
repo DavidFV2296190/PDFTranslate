@@ -138,7 +138,7 @@ To use the script, run the following command in your terminal:
 Wheel packages available on [PyPi.org](https://pypi.org/) can be downloaded manually and installed with the following command.
 
 ```commandline
-(.venv) PS C:\PDF_Translator> pip install --no-index --find-links=. .\pymupdf-1.25.3-cp39-abi3-win_amd64.whl 
+(.venv) PS C:\PDFTranslate> pip install --no-index --find-links=. .\pymupdf-1.25.3-cp39-abi3-win_amd64.whl 
 ```
 
 ---
